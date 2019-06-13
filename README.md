@@ -1,6 +1,6 @@
 # Robotic-Application---Kinematics
 
-Note: This program is made for Arduino hardware robot
+Note: This program is made for Arduino hardware robot -- “Robobulls-2017”
 
 This lab performs mainly two kinematics motion which are forward kinematics and inverse kinematics
 
